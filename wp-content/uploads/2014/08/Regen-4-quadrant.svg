@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="250px" viewBox="0 0 500 250" enable-background="new 0 0 500 250" xml:space="preserve">
+<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M94.336-103.376"/>
+<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M94.952-99.11"/>
+<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M95.957-96.409"/>
+<g>
+	<g>
+		
+			<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="363.438" y1="34.931" x2="363.438" y2="215.069"/>
+		
+			<line fill="none" stroke="#231F20" stroke-width="2" stroke-miterlimit="10" x1="272.939" y1="124.976" x2="453.935" y2="124.976"/>
+		<rect x="272.939" y="34.931" opacity="0.47" fill="#FF0000" width="90.498" height="90.045"/>
+		<rect x="363.438" y="124.976" opacity="0.47" fill="#FF0000" width="90.497" height="90.046"/>
+		<polygon fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" points="337.078,104.499 300.117,104.499 308.286,88.144 
+			328.91,88.144 		"/>
+		<g>
+			<circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="318.108" cy="74.358" r="25"/>
+			<circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="318.108" cy="74.358" r="4.206"/>
+		</g>
+		<g>
+			<polygon fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" points="429.609,196.047 392.648,196.047 400.816,179.692 
+				421.441,179.692 			"/>
+			<g>
+				<circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="410.639" cy="165.907" r="25"/>
+				<circle fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" cx="410.639" cy="165.907" r="4.205"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#0015FF" stroke-width="3" stroke-miterlimit="10" d="M307.46,63.296
+					c2.41-3.261,6.282-5.375,10.647-5.375c4.434,0,8.651,2.286,11.078,5.995c1.227,1.873,1.952,4.041,2.119,6.271
+					c0.023,0.324,0.035,0.646,0.035,0.965"/>
+				<g>
+					<polygon fill="#0015FF" points="304.879,71.378 313.559,61.838 308.004,62.825 304.396,58.49 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#0015FF" stroke-width="3" stroke-miterlimit="10" d="M422.409,155.158
+					c-2.616-3.26-6.762-5.236-11.104-5.236c-7.696,0-13.936,5.924-13.936,13.23c0,0.076,0.001,0.15,0.002,0.227"/>
+				<g>
+					<polygon fill="#0015FF" points="425.241,163.152 425.301,150.255 421.836,154.707 416.253,153.903 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<polygon fill="#C0BEC2" points="99.026,175.55 46.065,175.55 57.771,133.011 87.322,133.011 		"/>
+		<path d="M65.14,29.924v17.94c0,4.522,3.983,2.282,3.923,6.109c-0.028,1.73-0.698,2.051-3.279,3.986
+			c-2.582,1.936-5.355,5.206-5.273,10.353c0.047,2.938,1.028,5.718,2.958,7.78c1.93,2.063,4.782,3.327,8.038,3.28
+			c2.773-0.041,5.034-0.874,6.559-2.315c1.525-1.441,2.208-3.337,2.508-5.016c0.299-1.678,0.272-3.272,0.257-4.501
+			c-0.045-3.614,1.145-5.453,3.858-7.33c0,0-5.17-0.494-7.201,3.407c-1.354,2.598-0.734,4.979-1.103,7.588
+			c-0.369,2.619-3.025,3.372-4.942,3.408c-2.066,0.039-3.464-0.627-4.501-1.736c-1.038-1.109-1.706-2.726-1.736-4.63
+			c-0.059-3.635,1.291-4.908,3.408-6.494c2.117-1.587,6.679-4.469,8.938-7.588c2.188-3.021,2.443-4.016,2.443-6.302v-17.94H65.14z"
+			/>
+		<g>
+			<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="69.88" y1="117.492" x2="69.88" y2="78.075"/>
+			<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="75.212" y1="117.492" x2="75.212" y2="78.075"/>
+		</g>
+		<path fill="none" stroke="#231F20" stroke-width="4" stroke-miterlimit="10" d="M80.546,125.325c0,1.944-0.693,3.727-1.846,5.112
+			c-1.468,1.765-3.285,1.222-5.759,1.222c-2.386,0-4.924,0.621-6.389-1.035c-1.249-1.412-2.007-3.267-2.007-5.299
+			c0-4.418,3.582-8,8-8S80.546,120.907,80.546,125.325z"/>
+		<g>
+			<g>
+				<line fill="none" stroke="#ED1C24" stroke-width="9" stroke-miterlimit="10" x1="71.108" y1="141.41" x2="71.108" y2="200.7"/>
+				<g>
+					<polygon fill="#ED1C24" points="57.722,196.761 71.182,220.076 84.646,196.761 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="131.441" y="107" fill="none" width="86" height="36"/>
+	<text transform="matrix(1 0 0 1 148.3179 142.5)" font-family="'MyriadPro-Regular'" font-size="50">. . . </text>
+</g>
+</svg>

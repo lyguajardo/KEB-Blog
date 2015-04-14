@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="250px" viewBox="0 0 500 250" enable-background="new 0 0 500 250" xml:space="preserve">
+<path fill="none" stroke="#231F20" stroke-width="3" stroke-miterlimit="10" d="M339.394,328.334"/>
+<g>
+	<g>
+		<path fill="none" stroke="#FFCC00" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M63.748,126.077
+			c10.931,39.343,21.959,78.334,43.817,78.334c44.118,0,44.118-158.822,88.236-158.822c22.259,0,33.288,40.427,44.418,80.488"/>
+		<path fill="none" stroke="#44B549" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M63.748,126.539
+			c10.931,19.671,21.959,39.167,43.817,39.167c44.118,0,44.118-79.412,88.236-79.412c22.259,0,33.288,20.213,44.418,40.245"/>
+	</g>
+	<g>
+		<rect x="268.586" y="80.667" fill="none" width="167.666" height="38.667"/>
+		<text transform="matrix(1 0 0 1 268.5859 109.2261)" fill="#E1CC00" font-family="'HelveticaNeue-Bold'" font-size="40">460V</text>
+		<rect x="268.586" y="130.666" fill="none" width="167.666" height="38.667"/>
+		<text transform="matrix(1 0 0 1 268.5859 159.2266)" fill="#44B549" font-family="'HelveticaNeue-Bold'" font-size="40">230V</text>
+	</g>
+</g>
+</svg>

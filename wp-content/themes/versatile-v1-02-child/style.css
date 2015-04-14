@@ -1,0 +1,134 @@
+/*
+ Theme Name:   Versatile Child
+ Theme URI:    
+ Description:  Versatile Child
+ Author:       Jonathan Bullick
+ Author URI:   
+ Template:     versatile-v1-02
+ Version:      1.2
+ Tags:         l
+ Text Domain:  Versatile
+*/
+
+
+@import url("../versatile-v1-02/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+
+/*  Increases Heading Font Size */
+.gdlr-fixed-header .gdlr-navigation-wrapper .gdlr-main-menu > li > a {
+	font-size:15px;
+	padding-bottom:20px;
+	}
+
+/*  Increases Heading Font Size */
+.gdlr-navigation-wrapper .gdlr-main-menu > li > a {
+	font-size: 15px;
+	padding: 0px 0px 30px 22px;
+	margin: 0px;
+	font-weight: 700;
+	}	
+
+/*  Padding for Color background */
+.gdlr-color-wrapper {
+	padding-top: 40px;
+	padding-bottom: 0 px;
+	}
+
+/*  Increases Heading Font Size */
+.gdlr-item-title-wrapper .gdlr-item-title {
+	margin-bottom: 15px;
+}
+
+/*  Regen Page */
+.page-id-66 .gdlr-item {
+	margin:0 15px 0px;
+}
+
+
+/*  Increases Size of Icon and Circle-  
+.gdlr-column-service-item.gdlr-type-2 .column-service-icon {
+width: 65px;
+height: 65px;
+border-radius: 65px;
+font-size: 95px;
+position:relative
+}
+*/
+
+/* Repositions icon to center of circle 
+.gdlr-column-service-item .column-service-icon i {
+position: relative;
+	left: -16px;
+	top: -16px;
+}
+*/
+
+/* Moves up text on icon */
+.gdlr-column-service-item.gdlr-type-2 .column-service-icon {
+margin: 0px auto 10px;
+}
+*/
+
+.gdlr-title-item .gdlr-item-title-wrapper .gdlr-item-title {
+font-size: 50px;
+color:#ffffff;
+text-transform: uppercase;
+}
+
+/* Changes header padding and line type */
+.gdlr-item-title-wrapper .gdlr-item-title-divider {
+width: 25%;
+margin-top: 0px;
+
+}
+
+.gdlr-image-frame-item {
+margin-bottom: 0px;
+vertical-align: bottom;
+}
+
+li {
+font-size:12px;
+color: #3d3d3d;
+}
+
+p + ul { 
+margin-top: -20px; 
+}
+
+p + p { 
+margin-top: -20px; 
+}
+
+.gdlr-accordion-item.style-1 .accordion-content {
+font-size: 12px;
+color: #666666;
+}
+
+/* Smaller tabs text */
+.gdlr-tab-item.vertical > .tab-content-wrapper .tab-content.active {
+font-size: 12px;
+}
+
+/* Larger tab title */
+.gdlr-tab-item.vertical > .tab-title-wrapper .tab-title {
+font-size: 15px;
+text-align: left;
+}
+
+.gdlr-tab-item.vertical > .tab-title-wrapper .tab-title.active {
+background-color: #ffff7f;
+}
+
+
+.gdlr-tab-item.horizontal > .tab-title-wrapper .tab-title.active {
+background-color: #F1F166;
+}
+
+h6 {
+text-transform: uppercase;
+}
